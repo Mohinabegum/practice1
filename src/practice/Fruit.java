@@ -27,6 +27,9 @@ class kiwi extends Fruit{
 	}
 	public void setPrice2ofapple(int price2ofapple) {
 		this.price2ofapple = price2ofapple;
+		
+		
+		//first commit
 	}
 	
 }
