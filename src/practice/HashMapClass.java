@@ -9,7 +9,7 @@ public class HashMapClass {
 		
 		capitalCities.put("ENGLAND","LONDON");
 		capitalCities.put("GERMANY","BERLIN");
-		//myfirstproject
+		//my first
 		//System.out.println(capitalCities);
 		System.out.println(capitalCities.get("ENGLAND"));
 
