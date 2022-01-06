@@ -8,6 +8,8 @@ public class Car {
 	
 	public void carmethod() {
 		System.out.println("My car has six seats");
+		System.out.println("seats are amazing");
+		
 	}
 	
 	public void speedmethod(int Maxspeed, int Accel) {	
