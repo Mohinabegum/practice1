@@ -4,6 +4,7 @@ public class Car {
 	
 	static void mymethod() {
 		System.out.println("My car is Maroon");
+		System.out.println("new model");
 	}
 	
 	public void carmethod() {
