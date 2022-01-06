@@ -13,9 +13,8 @@ public class BooleanClass {
 	
 	System.out.println(Iceiscold);
 	System.out.println(snowispink);
+	System.out.println("both are same");
 	
 	
-
 	}
-
-}
+	}
