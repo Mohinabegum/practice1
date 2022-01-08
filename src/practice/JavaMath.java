@@ -9,9 +9,11 @@ public class JavaMath {
 		int x=250;
 		int y=786;
 		
+		
 		System.out.println(Math.max(x, y));
 		System.out.println(Math.min(x, y));
-		
+		System.out.println(250);
+		System.out.println(786);
 
 	}
 
