@@ -7,6 +7,7 @@ abstract class Animal {
 	public void sleep() {
 	
 System.out.println("sleep:Zzzz");
+
 }
 	
 }
